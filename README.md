@@ -1,4 +1,3 @@
-gdp-statute
-===========
+# Game Dev Party - Statuts
 
-Statute of the Game Dev Party association
+Ce dépot contient les statuts de l'association [http://gamedevparty.fr/](Game Dev Party), en français.
